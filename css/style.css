@@ -104,7 +104,7 @@ body {
 
 }
 
-.search-wrap{
+.ssearch-part{
   background-color: #2B2727;
   width: 70%;
   border-radius: 5px;
@@ -115,7 +115,7 @@ body {
 }
 
 
-.search-wrap .search{
+.search-part .search{
   background-color: #2B2727;
   height: 2.545455em;
   color: white;
@@ -126,7 +126,7 @@ body {
 
 }
 
-.search-wrap .fa-search{
+.search-part .fa-search{
   color: white;
   background-color: #2B2727;
   padding: 0;
@@ -174,6 +174,7 @@ body {
   line-height: 1.1;
   text-align: left;
   display: block;
+
 }
 
 #showcase-2 .whyduck {
@@ -209,10 +210,12 @@ body {
   position: relative;
   text-decoration: none;
   padding: 0 1em;
+
 }
 
 #showcase-2 .review{
   color: #eeeeee;
+
 }
 
 #showcase-2 .background-dark{
