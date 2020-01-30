@@ -1,0 +1,232 @@
+
+body {
+  font-family: "Helvetica Neue", "Helvetica",
+  "Liberation Sans", "Open Sans", FreeSans, Arial, "Open-sans", sans-serif;
+  font-size: 17px;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0;
+  background-color: #1b1b1b;
+  width: 100%;
+  align-items: start;
+  border: none;
+  height: auto;
+  
+}
+ 
+/* Header */
+  
+#main-header {
+  background-color: #1A1616;
+}
+
+#main-header .fa {
+  font-size: 17px;
+  
+}
+
+.navbar{
+  float: right;  
+  display: flex;
+
+}
+
+.navbar li {
+  display: inline;
+  list-style: none;
+  padding-right: 20px;
+  color: gray;
+   
+}
+
+.navbar a {
+  margin-top: 20px;
+  list-style: none;
+  text-decoration: none;
+  color: #888;
+  text-transform: uppercase;
+  
+}
+
+.img {
+  width: 100%;
+
+}
+  
+.container {
+  margin: auto;
+
+}
+  
+
+
+/* SHOWCASE */
+
+
+.showcase {
+  text-align: center;
+  align-items: center;
+  margin-bottom: 30px;
+  position: relative;
+  display: flex;
+  flex: 1 0 auto;
+  background-color: #1b1b1b;
+  float: left;
+  
+}
+
+
+.showcase .container{
+  background-color: #1b1b1b;
+  text-align: center;
+  align-items: center;
+  margin:0;
+
+}
+  
+.container .Ducklogo{
+  padding-bottom: 10px;
+  align-items: center;
+
+}
+
+.Ducklogo {
+  color: #f7f7f7;
+  padding: 5px;
+  font-size: 20px;
+
+}
+
+
+.logo-title{
+  padding: 10px;
+  align-items: center;
+
+}
+
+.search-wrap{
+  background-color: #2B2727;
+  width: 70%;
+  border-radius: 5px;
+  margin-left: 30%;
+  margin-bottom: 10px;
+  padding: 0px;
+  
+}
+
+
+.search-wrap .search{
+  background-color: #2B2727;
+  height: 2.545455em;
+  color: white;
+  font-size: 20px;
+  border: none;
+  width: 70%;
+  padding-left: 20%;
+
+}
+
+.search-wrap .fa-search{
+  color: white;
+  background-color: #2B2727;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+
+}
+
+
+
+/* SHOWCASE 2*/
+
+
+
+#showcase-2{
+  box-sizing: border-box;
+  display: flex;
+  width: 100%;
+  min-height: 400px;
+  max-width: 1250px;
+  margin: 80px auto 90px;
+  padding: 0 100px;
+  flex-direction: column;
+  background: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  
+}
+
+#showcase-2 .row {
+  height: 400px;
+  margin-bottom: 30px;
+  padding: 0 0 11px;
+  text-align: left;
+  
+}
+
+#showcase-2 .Privacy {
+  color: #eeeeee;
+  font-weight: 800;
+  margin-bottom: auto;
+  padding: 0 0 11px;
+  font-size: 40px;
+  line-height: 1.1;
+  text-align: left;
+  display: block;
+}
+
+#showcase-2 .whyduck {
+  font-size: 15px;
+  color: #eeeeee;
+  margin-bottom: auto;
+  padding: 0 0 24px;
+  line-height: 1.5;
+}
+
+#showcase-2 .gotochrome {
+  background-color: #678fff ;
+  color: #eeeeee;
+  font-weight: normal;
+  width: 30%;
+  height: 40px;
+  border-radius: 10px;
+  border-color: #678fff; 
+  display: flex;
+  height: 43px;
+  min-height: 44px;
+  margin: 0;
+  margin-top: 0px;
+  font-size: 14px;
+  line-height: 1.3;
+  align-items: center;
+  white-space: normal;
+  box-sizing: border-box;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  vertical-align: middle;
+  text-align: center;
+  position: relative;
+  text-decoration: none;
+  padding: 0 1em;
+}
+
+#showcase-2 .review{
+  color: #eeeeee;
+}
+
+#showcase-2 .background-dark{
+position: absolute;
+z-index: 0;
+top: 60%;
+left: 10%;
+
+}
+
+
+
+
+
+
+
+ 
