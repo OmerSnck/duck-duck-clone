@@ -104,7 +104,7 @@ body {
 
 }
 
-.search-wrap{
+.ssearch-part{
   background-color: #2B2727;
   width: 70%;
   border-radius: 5px;
@@ -115,7 +115,7 @@ body {
 }
 
 
-.search-wrap .search{
+.search-part .search{
   background-color: #2B2727;
   height: 2.545455em;
   color: white;
@@ -126,7 +126,7 @@ body {
 
 }
 
-.search-wrap .fa-search{
+.search-part .fa-search{
   color: white;
   background-color: #2B2727;
   padding: 0;
